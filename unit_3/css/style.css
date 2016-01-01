@@ -1,0 +1,28 @@
+body {
+	background-image: url(https://scontent-sjc2-1.xx.fbcdn.net/hphotos-xpt1/v/t1.0-9/10606072_944965628862539_2328436568792008061_n.jpg?oh=b5305bd934e69758695b78a9fd9d32b3&oe=5718FA55);
+  	background-size: cover;
+}
+
+h1 {
+	font-size: 40pt;
+	color: #FF6699;
+	font-weight: bold;
+	font-family: Arial;
+}
+
+
+h2 {
+	font-size: 20pt;
+	color: #FFFFCC;
+	font-family: Helvetica;
+}
+
+p {
+	color: white;
+	font-family: Arial;
+	font-size: 12pt;
+}
+
+a {
+	color: white;
+}
