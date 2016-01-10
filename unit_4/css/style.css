@@ -4,10 +4,11 @@ body {
 }
 
 h1 {
-	font-size: 40pt;
+	font-size: 46pt;
 	color: #4B0082;
 	font-weight: bold;
 	font-family: 'Indie Flower', cursive;
+	margin: 0;
 }
 
 
@@ -15,12 +16,13 @@ h2 {
 	font-size: 20pt;
 	color: #006400;
 	font-family: Helvetica;
+	margin: 0 0 40px 0;
 }
 
 p {
-	color: #191970;
+	color: black;
 	font-family: 'Poiret One', cursive;
-	font-size: 13pt;
+	font-size: 14pt;
 	font-weight: bold;
 }
 
